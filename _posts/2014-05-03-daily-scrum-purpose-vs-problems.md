@@ -17,6 +17,8 @@ Why would we want to screw Danny? Well we can just throw a knife while he's stir
 
 Before I load the tips on how to mess Danny and your team. You may need to know the basics. If you already know the basic stuff, you can scroll directly to the Tip 1.
 
+<br/>
+
 ## Basics
 
 What is Scrum? Just a brief: Scrum is a life cycle development methodology that has been widely used on both internal and external projects. Its intention is to reap benefits from fast iteration, let's say the product owner have changes, those changes would then be done in a sprint which range from 1-2 weeks. This would happen iteratively as long as the project continues.
@@ -25,16 +27,19 @@ Scrum is only a process. The scrum master, as a role, would need the team to fol
 
 The process involves a stand-up meeting that would require each team member to answer three question. Let me quote Wikipedia on this:
 
-> There are three questions to ask and answer in the daily stand-up. Though it may not be practical to limit all discussion to these three questions, the goal is to stick as closely as possible to these questions:
-1. What did I accomplish yesterday?
-2. What will I do today?
-3. What obstacles are impeding my progress?
-— http://en.wikipedia.org/wiki/Stand-up_meeting
+> There are three questions to ask and answer in the daily stand-up. Though it may not be practical to limit all discussion to these three questions, the goal is to stick as closely as possible to these questions:  
+> 1. What did I accomplish yesterday?
+> 2. What will I do today?
+> 3. What obstacles are impeding my progress?
+>
+> — http://en.wikipedia.org/wiki/Stand-up_meeting
 
 Everyday each team member needed to be prepared before the daily scrum would start. The whole session should be time boxed to 15 minutes.
 
 So now you should have a good understanding of scrum.
 Easy right? Of course it should be! Now I'll present the meat of this post. Let's start messing up!
+
+<br/>
 
 ![]({{ site.baseurl }}public/images/2014-05-03-02.jpg)
 
@@ -57,6 +62,8 @@ So with that information in mind you can diss Danny to explain in detail the iss
 
 I know this would sound evil enough but do it in the right way and you'll be able win. Good luck!
 
+<br/>
+
 ![]({{ site.baseurl }}public/images/2014-05-03-03.jpg)
 
 ## Tip 3: Scrum Master
@@ -69,6 +76,8 @@ The difference of management and being a leader is by far enough to screw Danny.
 
 What if Danny will be successful in this role? Well your Danny is one in a million talent. Try this first, I can assure you 99% success rate.
 
+<br/>
+
 ## Tip 4: Win
 
 I'll teach you how to be a creator of awkward moments. Here's how:
@@ -80,6 +89,8 @@ Here is how to do it:
 Always ask "So how?"... Don't talk, wait for an answer... If Danny would answer something, make that answer wrong then ask again "So how?"... Don't talk, wait for an answer... Do this repeatedly until it becomes more awkward than ever, make sure to be soooo serious until Danny will feel so miserable and will likely jump in the building.
 
 The key thing here is to have a Win-Lose mentality. You must win and Danny should lose. Hurray!
+
+<br/>
 
 ## Tip 5: Diss more
 
@@ -95,6 +106,8 @@ Here are some points you can do to further mess up the team:
 - Push the idea of working in weekends. Yes, that is both Saturday and Sunday, full day and night. Sleep sucks so do not bother.
 - Always let the team know they are always late on the deliverables even they have clocked extended hours.
 - Let them be the mercenary. Let them be the hero. Because hero's die.
+
+<br/>
 
 ## Summary
 
