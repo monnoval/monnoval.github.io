@@ -3,7 +3,7 @@ layout: post
 title: Mess up a Team with Daily Scrum
 ---
 
-![]({{ site.baseurl }}public/images/2014-05-03-01.jpg)
+![]({{ site.baseurl }}public/images/2014-04-03-01.jpg)
 
 Daily scrum is a subset of scrum. Basically daily scrum is a stand-up meeting done by team members daily. It has a couple of guidelines to assure the team can benefit from the information provided by each team member. Daily scrum is effective and beneficial for the whole team but it is also a tool to mess up a team.
 
@@ -41,7 +41,7 @@ Easy right? Of course it should be! Now I'll present the meat of this post. Let'
 
 <br/>
 
-![]({{ site.baseurl }}public/images/2014-05-03-02.jpg)
+![]({{ site.baseurl }}public/images/2014-04-03-02.jpg)
 
 ## Tip 1: On-time
 
@@ -66,7 +66,7 @@ I know this would sound evil enough but do it in the right way and you'll be abl
 
 <br/>
 
-![]({{ site.baseurl }}public/images/2014-05-03-03.jpg)
+![]({{ site.baseurl }}public/images/2014-04-03-03.jpg)
 
 ## Tip 3: Scrum Master
 
@@ -98,7 +98,7 @@ The key thing here is to have a Win-Lose mentality. You must win and Danny shoul
 
 There are a lot of ways to disrespect someone. There are a hundred ways to kill a cat. Do it in any way you wanted.
 
-![This is how to diss HTML! Lols!]({{ site.baseurl }}public/images/2014-05-03-04.jpg)
+![This is how to diss HTML! Lols!]({{ site.baseurl }}public/images/2014-04-03-04.jpg)
 
 Here are some points you can do to further mess up the team:
 

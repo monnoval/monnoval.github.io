@@ -3,7 +3,7 @@ layout: post
 title: Habits to Undo at Work
 ---
 
-![]({{ site.baseurl }}public/images/2014-05-18-01.jpg)
+![]({{ site.baseurl }}public/images/2014-04-18-01.jpg)
 
 Being effective at work takes us to philosophical boundaries. There is a choice between process and chaos in achieving the end point. By experience there was no basics thought in finishing a project. There is only what we needed to implement which is already simple. Too simple to do. Too simple to forget.
 
@@ -23,7 +23,7 @@ Below I am listing what I experienced and would dedicate myself to undo them.
 
 For people working together, lunch is the best way to mingle and communicate with each other.
 
-![]({{ site.baseurl }}public/images/2014-05-18-02.jpg)
+![]({{ site.baseurl }}public/images/2014-04-18-02.jpg)
 
 > Eating together is a critical part of what it means to be human and what it means to have a humane workplace, and that’s been a part of our values from day one.  
 > — http://www.joelonsoftware.com/items/2011/04/28.html
@@ -49,7 +49,7 @@ Lunch is important enough as a source of energy for the next hours in the day. E
 
 We all needed help. To learn to NOT say "I need help" is completely wrong. We need it and it would be impossible to not welcome any of it.
 
-![]({{ site.baseurl }}public/images/2014-05-18-03.jpg)
+![]({{ site.baseurl }}public/images/2014-04-18-03.jpg)
 
 The first time I heard it from someone. It kind of awoken my ideas at the same time I sensed a false idea. This is how it was said
 
@@ -86,7 +86,7 @@ Maybe I'm just being too skeptic, or maybe too pessimist but I am sure of myself
 
 Humaneness is a huge factor as a leader of a team. I am not able to tolerate another inhumane treatment toward anyone.
 
-![]({{ site.baseurl }}public/images/2014-05-18-04.jpg)
+![]({{ site.baseurl }}public/images/2014-04-18-04.jpg)
 
 Saying thank you is an act of kindness. We must accept it.
 
