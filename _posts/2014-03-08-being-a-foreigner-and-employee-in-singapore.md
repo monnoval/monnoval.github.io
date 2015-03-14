@@ -3,6 +3,8 @@ layout: post
 title: What are some bad things about living (and working) in Singapore as a foreigner?
 ---
 
+![]({{ site.baseurl }}public/images/2014-03-08-001.jpg)
+
 Since the question is asking for bad things. Let me list the bad things while not forgetting about all the good things. I'm a Filipino living here in Singapore for the past 3 years. And it's been awesome but... Yes! Let's start with the "buts"
 
 <p class="message">
