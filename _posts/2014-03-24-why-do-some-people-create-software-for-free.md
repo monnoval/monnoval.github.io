@@ -15,8 +15,7 @@ I always felt "software for free" is in humans nature to give. Software as free 
 
 I'll quote [The Mythical Man-Month](http://www.amazon.com/The-Mythical-Man-Month-Engineering-Anniversary/dp/0201835959) Chapter 1. The Tar Pit - The Joys of the Craft
 
-> Second is the pleasure of making things that are useful to other people. Deep within, we want others to use our work and to find it helpful. In this respect the programming system is not essentially different from the child’s first pencil holder “For Daddy’s office.
-> Frederick P. Brooks Jr. - The Mythical Man-Month
+> Second is the pleasure of making things that are useful to other people. Deep within, we want others to use our work and to find it helpful. In this respect the programming system is not essentially different from the child’s first pencil holder "For Daddy's office". - Frederick P. Brooks Jr. - The Mythical Man-Month
 
 This book was first published in 1975 but until now it is still read by professionals from fields inside and outside of IT. Going back to the quote, as one of the joys of programming which is quite true to most developers. This relates with the transition of developers from SourceForge to GitHub.
 
