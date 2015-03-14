@@ -3,7 +3,7 @@ layout: post
 title: Habits to Undo at Work
 ---
 
-![]({{ site.baseurl }}public/images/2014-05-03-01.jpg)
+![]({{ site.baseurl }}public/images/2014-05-18-01.jpg)
 
 Being effective at work takes us to philosophical boundaries. There is a choice between process and chaos in achieving the end point. By experience there was no basics thought in finishing a project. There is only what we needed to implement which is already simple. Too simple to do. Too simple to forget.
 
