@@ -21,7 +21,7 @@ For people working together, lunch is the best way to mingle and communicate wit
 
 ![]({{ site.baseurl }}public/images/2014-05-18-01.jpg)
 
-> Eating together is a critical part of what it means to be human and what it means to have a humane workplace, and that’s been a part of our values from day one.
+> Eating together is a critical part of what it means to be human and what it means to have a humane workplace, and that’s been a part of our values from day one.  
 > — http://www.joelonsoftware.com/items/2011/04/28.html
 
 It's a time where each can talk anything they can think of. Life, stories, movies, weekends, etc. This is a time where
@@ -85,6 +85,8 @@ Humaneness is a huge factor as a leader of a team. I am not able to tolerate ano
 ![]({{ site.baseurl }}public/images/2014-05-18-03.jpg)
 
 Saying thank you is an act of kindness. We must accept it.
+
+<br/>
 
 ## Summary
 
