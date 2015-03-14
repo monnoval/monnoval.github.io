@@ -28,9 +28,9 @@ Scrum is only a process. The scrum master, as a role, would need the team to fol
 The process involves a stand-up meeting that would require each team member to answer three question. Let me quote Wikipedia on this:
 
 > There are three questions to ask and answer in the daily stand-up. Though it may not be practical to limit all discussion to these three questions, the goal is to stick as closely as possible to these questions:  
-> 1. What did I accomplish yesterday?
-> 2. What will I do today?
-> 3. What obstacles are impeding my progress?
+> 1. What did I accomplish yesterday?  
+> 2. What will I do today?  
+> 3. What obstacles are impeding my progress?  
 >
 > — http://en.wikipedia.org/wiki/Stand-up_meeting
 
@@ -47,12 +47,14 @@ Easy right? Of course it should be! Now I'll present the meat of this post. Let'
 
 Daily scrum should start on time and if Danny is late, it would be your chance to be upfront and put some punishment on it.
 
-You: Hey Danny! Why your late man? We all agreed to be on time so that we can do this fast then get back to work asap but with what you've done, the team may need to stay back late. (The do the calm seriously killing face expression...)
-Danny: Uhhhmm, really sorry... (Even if Danny is still talking, immediately cut him off)
-You: All of us are miserably affected on what you've done.
-Danny: Really sorry man this won't happen again (This is a general response and you should be negative about this so that you won't create trust with Danny - *Sooo Evil*)
+__You:__ _Hey Danny! Why your late man? We all agreed to be on time so that we can do this fast then get back to work asap but with what you've done, the team may need to stay back late. (The do the calm seriously killing face expression...)_  
+__Danny:__ _Uhhhmm, really sorry... (Even if Danny is still talking, immediately cut him off)_  
+__You:__ _All of us are miserably affected on what you've done._  
+__Danny:__ _Really sorry man this won't happen again (This is a general response and you should be negative about this so that you won't create trust with Danny - \*Sooo Evil\*)_
 
 Simple but trust me this works. You can actually add more value to the above so that the beef will be more firm. Show to other team members how asshole the person they're dealing with. ;)
+
+<br/>
 
 ## Tip 2: Ask details
 
@@ -86,7 +88,7 @@ After daily scrum is done. You can now discuss how to resolve a problem highligh
 
 Here is how to do it:
 
-Always ask "So how?"... Don't talk, wait for an answer... If Danny would answer something, make that answer wrong then ask again "So how?"... Don't talk, wait for an answer... Do this repeatedly until it becomes more awkward than ever, make sure to be soooo serious until Danny will feel so miserable and will likely jump in the building.
+_Always ask "So how?"... Don't talk, wait for an answer... If Danny would answer something, make that answer wrong then ask again "So how?"... Don't talk, wait for an answer... Do this repeatedly until it becomes more awkward than ever, make sure to be soooo serious until Danny will feel so miserable and will likely jump in the building._
 
 The key thing here is to have a Win-Lose mentality. You must win and Danny should lose. Hurray!
 
