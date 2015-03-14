@@ -55,7 +55,7 @@ My opinions are quite hard or even harsh most of the time. I always try my best 
 
 Lets be honest, the IT community in Philippines is crowded with “you're so cool”, “you're so awesome”, “you're doing a good job”. No one even bother to constructively critic another person’s work. In another level, people join groups just to mingle and not really to do some real work. We got no direction on what to do or even accomplish. Might as well sing some
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/StTqXEQ2l-Y" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/StTqXEQ2l-Y" frameborder="0" allowfullscreen></iframe>
 
 <br/>
 
