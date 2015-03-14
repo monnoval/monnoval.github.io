@@ -3,7 +3,7 @@ layout: post
 title: Why filipino developers fail in the Philippines
 ---
 
-![]({{ site.baseurl }}public/images/2014-05-28-01.jpg)
+![]({{ site.baseurl }}public/images/2014-05-17-01.jpg)
 
 This post was mainly a response to [Why filipino startups fail in the Philippines](http://kareerkoblog.azurewebsites.net/why-startups-fail-in-the-philippines/). As I was writing and reviewing the whole thing, my focus then turned to my experiences which I concluded that we as Filipino developers fail.
 
