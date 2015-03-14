@@ -7,6 +7,8 @@ title: Why do some people create software for free?
 
 I always felt "software for free" is in humans nature to give. Software as free is not a matter of giving then getting money later but it is really just giving. Giving without a thought of returns. Giving with a thought that people would use it somehow.
 
+<!--more-->
+
 <p class="message">
   <a href="http://www.quora.com/Why-do-some-people-create-software-for-free">This is a re-post of my answer in Quora. See the whole thread here.</a>
 </p>

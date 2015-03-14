@@ -7,6 +7,8 @@ title: How important is touch-typing to a programmer?
 
 Very important. Seriously, it's a matter of losing your ability to type. Maybe I'm kind of exaggerating but you can read-on why.
 
+<!--more-->
+
 <p class="message">
   <a href="http://www.quora.com/How-important-is-touch-typing-to-a-programmer">This is a re-post of my answer in Quora. See the whole thread here.</a>
 </p>
