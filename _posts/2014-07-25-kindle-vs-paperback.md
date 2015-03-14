@@ -3,7 +3,7 @@ layout: post
 title: Thoughts on Kindle and physical books
 ---
 
-![]({{ site.baseurl }}public/images/2014-05-30-01.jpg)
+![]({{ site.baseurl }}public/images/2014-07-25-01.jpg)
 
 It has been a year of using [Kindle](http://www.amazon.com/gp/product/B007HCCNJU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007HCCNJU&linkCode=as2&tag=monnoval-20&linkId=2VRWLZZ3CMMA5TBV). It is the best device for reading! The best facts I could say is: I always can reread the books I finished anytime I'm on the go. Reading articles I find in the web has never been this easy.
 
@@ -19,7 +19,7 @@ I'm undoubtedly towards digital by any measure. I would love everything digital 
 
 I love the touch of physical books. Holding them tightly, flipping from one page to another, and that smell! Com'on a kindle cannot generate that smell on the fly!
 
-![Oh God, it smells so good!]({{ site.baseurl }}public/images/2014-05-30-02.gif)  
+![Oh God, it smells so good!]({{ site.baseurl }}public/images/2014-07-25-02.gif)  
 Oh God, it smells so good!
 
 By the time you are immensely into the universe of what you are reading. Everything changes. You are into a world where you cannot stop reading continuously. This crucial moment I'm sure you would not:
@@ -30,7 +30,7 @@ By the time you are immensely into the universe of what you are reading. Everyth
 
 The importance of content is higher than any decorative means. In books everybody knows content is the deciding factor for its quality. Similarly it has been taken into the web and everybody is yelling "Content is King!"
 
-![We know that Robb died but a King can never die because eventually a new King will show up!]({{ site.baseurl }}public/images/2014-05-30-03.jpg)  
+![We know that Robb died but a King can never die because eventually a new King will show up!]({{ site.baseurl }}public/images/2014-07-25-03.jpg)  
 We know that Robb died but a King can never die because eventually a new King will show up!
 
 <br/>
