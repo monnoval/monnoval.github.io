@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why do some people create software for free?
+title: Mess up a Team with Daily Scrum
 ---
 
 ![]({{ site.baseurl }}public/images/2014-05-03-01.jpg)
