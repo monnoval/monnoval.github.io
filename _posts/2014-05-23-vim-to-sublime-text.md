@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why filipino developers fail in the Philippines
+title: My Adventures with VIM - Love and Hate
 ---
 
 ![]({{ site.baseurl }}public/images/2014-05-23-01.jpg)
