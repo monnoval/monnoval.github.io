@@ -19,7 +19,7 @@ I'll quote [The Mythical Man-Month](http://www.amazon.com/The-Mythical-Man-Month
 
 This book was first published in 1975 but until now it is still read by professionals from fields inside and outside of IT. Going back to the quote, as one of the joys of programming which is quite true to most developers. This relates with the transition of developers from SourceForge to GitHub.
 
-<iframe width="100%" height="300px" src="https://www.youtube.com/embed/UIDb6VBO9os" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/UIDb6VBO9os" frameborder="0" allowfullscreen></iframe>
 
 The projects in Github is crazy. Immensely immeasurable how people connect and assist each other.
 
