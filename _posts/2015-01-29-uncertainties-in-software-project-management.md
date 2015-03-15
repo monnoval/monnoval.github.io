@@ -17,7 +17,7 @@ I really liked the quote below and this is the main reason I wrote this post
 
 > As such it is closer to the production of a newpaper [sic] — so that a software manager who cannot program is akin to a managing editor who cannot write.
 
-> — John C. Reynolds, wikipedia.org/wiki/Software_project_management
+> — [John C. Reynolds, Software project management](http://en.wikipedia.org/wiki/Software_project_management)
 
 <br/>
 
