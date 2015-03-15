@@ -3,7 +3,7 @@ layout: post
 title: Uncertainties in software project management
 ---
 
-![]({{ site.baseurl }}public/images/2015-01-29-01.png)
+![]({{ site.baseurl }}public/images/2015-01-29-01.jpg)
 
 I have been working with various people in software, web and mobile. I've been into worse from what I can compare from each team I worked with. Some good most bad, well, this is a world of emotion and uncertainties.
 
