@@ -15,6 +15,8 @@ title: Home
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
     {{ post.excerpt }}
+    
+    <p><a class="read-more" href="{{ post.url }}">Read More</a></p>
   </div>
   {% endfor %}
 </div>
@@ -35,4 +37,3 @@ title: Home
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
-
