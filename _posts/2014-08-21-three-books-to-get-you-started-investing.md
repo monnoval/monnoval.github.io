@@ -41,7 +41,7 @@ I'm still using this book as reference. Every now and then I still need to open 
 
 ## [The Neatest Little Guide to Stock Market Investing: Fifth Edition](http://www.amazon.com/gp/product/0452298628/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0452298628&linkCode=as2&tag=monnoval-20&linkId=LYQERIPU7QVTDRL3)
 
-![The Neatest Little Guide to Stock Market Investing]({{ site.baseurl }}public/images/2014-08-21-03.jpg)
+![The Neatest Little Guide to Stock Market Investing]({{ site.baseurl }}public/images/2014-08-21-03.png)
 
 Without this book it would be impossible to get right in choosing my first set of stocks. Immensely entertaining at the same time full of useful information from investment gurus, history, and major events. Reading this book is very easy and welcoming. Jason Kelly made this book delightful to consume.
 
@@ -51,7 +51,7 @@ This book works as said by Jason Kelly himself and I do believe him. I cannot im
 
 ## [The Intelligent Investor: The Definitive Book on Value Investing](http://www.amazon.com/gp/product/0060555661/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0060555661&linkCode=as2&tag=monnoval-20&linkId=VJDV7R2CY3FS5AGQ)
 
-![The Neatest Little Guide to Stock Market Investing]({{ site.baseurl }}public/images/2014-08-21-04.jpg)
+![The Neatest Little Guide to Stock Market Investing]({{ site.baseurl }}public/images/2014-08-21-04.png)
 
 Honestly I am still half way reading but nevertheless this book is giving me the chills. It shows the history and realities of stocks, bonds, and funds.
 
