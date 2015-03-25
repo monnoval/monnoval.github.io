@@ -23,11 +23,40 @@ The most important of all is the part where I learned how to use BEM (Block, ele
 
 ## Writing Maintainable, Future-Friendly Code by Nicholas C. Zakas
 
-From the title itself, the chapter is well written and gives a strong emphasis on maintainability and extensibility code for future uses. It gave me an impretion of Nicholas saying that he had experienced all the nuances of having no documentation, styleguide, team work, and awareness.
+From the title itself, the chapter is gives a strong emphasis on maintainability and extensibility on code for future use. It gave me an impretion of Nicholas saying that he had experienced all the nuances of having no documentation, styleguide, team work, and awareness.
+
+> Even if you're unable to find the perfect arcitecture for your project, just pick one. Having some organization is much better than having no organization.
+
+> - Nicholas C. Zakas
+
+He also advised on how to organize js files like `js/plugins` and `js/3rdparty`
+
+Below is the conclusion in this chapter.
+
+> - Code conventions ensure that everyone speaks the same language.
+> - An architecture lays a solid foundation on which to build.
+> - Good documentation is important so others can extend your codelater.
+> - Choosing and managin third-party components appropriately makes sure you have linear path as fixes become available.
 
 <br/>
 
 ## The Vanilla Web Diet by Christian Heilmann
+
+_"Vanilla Web Diet"_ is about building in the web starting from what works and slowly building on top of every working layer. Currently web developers depend too much on using javascript. Even the most basic things developers tend to forget the basics in building a form in plain html, javascript goes in with purpose html would able to do.
+
+> Outdated browsers are retired; we shouldn't pester them with more and more demands to execute code that wasn't meant for them and will never run smoothly
+
+Every developer hates supporting IE, it eats lots of debugging time while supports only few visitors. I remember one project I was so focused on pushing it to live while neglecting support IE. I was purely using Chrome in my tests. I neglected to use the basics of HTML, CSS and Javascript. xx
+
+> Build for the person who takes over from you, not for the current state of the browser and you'll be a great person to work with.
+
+> Trying to replace the basic transport mechanisms of the Web with our own contructs may seem faster but it will always be very prone to error. We have a working infrastructure - we should use it.
+
+
+
+> Instead of atempting to give everyone the same experience, we should always find the best way to ensure people can use what we build.
+> Something that adds to the obesity of the Web to a very large degree is the misguided notion of giving every browser and every environment the same experience.
+
 
 
 <br/>
