@@ -120,6 +120,7 @@ Even if this section was written in parallel with philosophy I love the deep sen
 ### On Creative Spirit by Christopher Murphy
 
 
+<br/>
 
 ## Chapters skipped
 
@@ -142,7 +143,9 @@ Worst chapter of all is _"Obscure Back-end Techniques and Terminal Secrets"_. I 
 
 ## Summary
 
-The whole book is awesome. Even though there are parts, which do not correlate to each other, the overall learning that was thought is extensive. I learned a lot! This book is not just about new perspectives, it is more of catching up what is currently out in the web.
+The whole book is awesome! Even though there are parts, which do not correlate to each other, the overall learning that was thought is extensive. I learned a lot! There was a balance of concepts and techniques. All together it brought advantages to which part belongs to which. I'm a big fan of abstraction, and this book abstracted the ideas on both engineering and philosophy in the web.
+
+
 
 
 
