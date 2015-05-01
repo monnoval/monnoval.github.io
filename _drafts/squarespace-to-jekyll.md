@@ -11,6 +11,12 @@ Intro here
 
 <br/>
 
+## Losing content
+
+Every now and then we do experience lost of content such as photos, notes, code snippet, urls, etc. It is dreadful and really excruciating.
+
+<br/>
+
 ## Writing in offline
 
 Now after online failed big time on me. Seriouslt, writing offline felt home, maybe because of the following
@@ -25,3 +31,6 @@ Now after online failed big time on me. Seriouslt, writing offline felt home, ma
 ## Going back to plain text
 
 I love markdown. It's simple, no non-sense of opening and closing tags like what we do in html. Focus is
+
+<br/>
+

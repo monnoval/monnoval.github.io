@@ -3,9 +3,9 @@ layout: post
 title: Smashing Book 4 New Perspectives Review
 ---
 
-![]({{ site.baseurl }}public/images/2015-04-01-01.jpg)
+![]({{ site.baseurl }}public/images/2015-05-01-01.jpg)
 
-I was glad to have this fourth version of the Smashing Magazine Book. I did have the first and second and was not able write any review on it. This time I'm going in-depth in reviewing the book to deepen my understanding on each chapter.
+I know this review will be "too late" becuase the fifth version is already on its way. Still I was very glad to have this fourth version of the Smashing Magazine Book. I did have the first and second and was not able write any review on it. This time I'm going in-depth in reviewing the book to deepen my understanding on each chapter.
 
 <!--more-->
 
@@ -104,21 +104,6 @@ This chapter is a technique version of _"Vanilla Web Diet"_ and _"Writing Mainta
 Not really a big fan of content strategy, maybe as a developer I'm too focused on doing the engineering work and had less involvement in managing content. If you’re foreign to content strategy and would like to learn more about this topic, this is the best place to start with. I have no idea what is it about in the first place and reading the whole chapter opens new doors.
 
 Even if this section was written in parallel with philosophy I love the deep sense it plants in our thoughts. The complex technology powering the web is very important, we should not forget most people using it have no idea. Content is king. As most of us ponder this phrase it is simply how people communicate and interact, with content.
-
-<br/>
-
-### Supporting Your Product by Rachel Andrew
-
-
-<br/>
-
-### The Design of People by Nishant Kothary
-
-
-<br/>
-
-### On Creative Spirit by Christopher Murphy
-
 
 <br/>
 
