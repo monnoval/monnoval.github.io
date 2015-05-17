@@ -3,7 +3,7 @@ layout: post
 title: Flash Boys
 ---
 
-![]({{ site.baseurl }}public/images/2015-05-11-01.jpg)
+![]({{ site.baseurl }}public/images/2015-05-17-01.jpg)
 
 This book is a bridge for information technology and the financial markets. There are a lot of things to talk about and the book is extensively informative about algorithms, software, high-frequency trading (HFT), and people building extreme complex systems that run stock markets today.
 
