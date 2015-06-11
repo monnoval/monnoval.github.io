@@ -5,9 +5,9 @@ title: Create Wordpress Multisite in the new Nitrous Pro
 
 ![]({{ site.baseurl }}public/images/2015-06-10-01.png)
 
-With so many trials, errors, coffee, and water. I finally have a working development server using Nitrous Pro. I actually did the following to migrate my development server from Nitrous Lite. The thought was easy in reality I bumped into a lot of issues along the way.
+With so many trials, errors, coffee, and water. I finally have a working development server using Nitrous Pro. I actually did the following to migrate my development server from Nitrous Lite. The thought was easy. In reality I bumped into a lots of issues.
 
-If you'd need a Wordpress Multisite I hope the following would help :3
+If you'd need a Wordpress Multisite I hope the following would help! 
 
 <!--more-->
 
@@ -45,7 +45,7 @@ Inside the IDE you would need to use the console and follow the commands below
 # Change default port from Listen 3000 to Listen 80
 $ sudo nano /etc/apache2/ports.conf
 
-# Change `<VirtualHost *:3000>` to `<VirtualHost *:80>`
+# Change <VirtualHost *:3000> to <VirtualHost *:80>
 $ sudo nano /etc/apache2/sites-available/000-default.conf
 
 # Still in 000-default.conf add the following
