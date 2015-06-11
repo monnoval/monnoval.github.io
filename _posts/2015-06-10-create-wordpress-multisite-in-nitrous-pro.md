@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Create Wordpress Multisite in the new Nitrous Pro
+comments: true
 ---
 
 ![]({{ site.baseurl }}public/images/2015-06-10-01.png)
