@@ -4,7 +4,7 @@ title: Privacy and Anonymity for the Good
 comments: true
 ---
 
-![]({{ site.baseurl }}public/images/2015-06-19-01.jpg)
+![]({{ site.baseurl }}public/images/2015-06-21-01.jpg)
 
 After watching the video [What happens when you steal a hackers computer](https://www.youtube.com/watch?v=U4oB28ksiIo). I was in awe. Well Zoz's setup is pretty hard-core, he got SSH and VNC setup. I really hope I'm able to have that kind of setup someday. What really hooked me was another video from him [DEF CON 22 - Zoz - Don't Fuck It Up!](https://www.youtube.com/watch?v=J1q4Ir2J8P8) which he said the following regarding [Tor](https://torproject.org/): 
 
@@ -55,7 +55,7 @@ Lastly!
 
 <h3 id="tor-browser">1. Tor Browser</h3>
 
-![]({{ site.baseurl }}public/images/2015-06-19-04.png)
+![]({{ site.baseurl }}public/images/2015-06-21-04.png)
 
 The browser is a heavily modified version of the Firefox. [Download the Tor Browser](https://www.torproject.org/download/), install and you can use it as your default browser (which what I did). I felt this is the right way to do. Now every new link I open will now go thru the Tor Network.
 
@@ -99,7 +99,7 @@ In iOS, there is no official Tor browser yet. There are options, one is the [Oni
 
 If you're going to use Tor side by side with Firefox. You'll definitely confuse the two. To make sure you are using Tor most of the time you just need to install themes on both. 
 
-![]({{ site.baseurl }}public/images/2015-06-19-05.jpg)
+![]({{ site.baseurl }}public/images/2015-06-21-05.jpg)
 
 In the screenshot above I used 
 
@@ -113,7 +113,7 @@ In the screenshot above I used
 
 I purchased a VPN from [Private Internet Access](https://www.privateinternetaccess.com/). Well for now I only bought a month of subscription. I may well extend it to a year because the service is good so far. They have an awesome support as well, you can have a chat with someone in their website anytime you need. 
 
-![]({{ site.baseurl }}public/images/2015-06-19-07.jpg)
+![]({{ site.baseurl }}public/images/2015-06-21-07.jpg)
 
 Currently I used the PIA on my laptop, desktop and iPhone. I never had problems using their software in my computers except in iOS. I experienced in my home wifi I was not able to connect using their iOS App, the quick fix was to use
 
@@ -142,7 +142,7 @@ https://github.com/feross/SpoofMAC
 
 <h3 id="duckduckgo">3. DuckDuckGo</h3>
 
-![]({{ site.baseurl }}public/images/2015-06-19-03.png)
+![]({{ site.baseurl }}public/images/2015-06-21-03.png)
 
 Now all my searches online is using DuckDuckGo search engine. After setting it as default in my computer I never felt the need to go back to using Google search. Well you might think that I'm trying to avoid Google as much as I can, in reality do we really need to use Google search's advanced feature on how it personalizes our search results? I do not think so.
 
@@ -159,7 +159,7 @@ I did set DuckDuckGo on every device I use. It is very harmful that someone is l
 
 Since the Snowden/NSA plus the shutting down of [Lavabit](http://lavabit.com/) I was in search for a GMail alternative that would [prioritize privacy and security](https://www.fastmail.com/help/ourservice/security.html?domain=fastmail.fm). [FastMail](https://fastmail.com) has been my top choice since I read lots of good reviews; mostly from developers I follow in twitter. Another thing is the UI, which is close enough with GMail. Learning a new user interface is tough. Using FastMail's web interface and iOS app is a breeze.
 
-![]({{ site.baseurl }}public/images/2015-06-19-06.png)
+![]({{ site.baseurl }}public/images/2015-06-21-06.png)
 
 <br/>
 
@@ -186,7 +186,7 @@ Free is definitely good, of course there are tradeoffs. In the end nothing is ac
 
 From [Use FileVault to encrypt the startup disk on your Mac](https://support.apple.com/en-us/HT204837)
 
-![]({{ site.baseurl }}public/images/2015-06-19-02.jpg)
+![]({{ site.baseurl }}public/images/2015-06-21-02.jpg)
 
 > You can use FileVault full disk encryption (FileVault 2) to help prevent access to documents and other data stored on your startup disk. FileVault uses XTS-AES 128 encryption. To use this feature, you need OS X Lion or later, and a working [OS X Recovery](http://support.apple.com/kb/HT4718) volume on your startup disk.
 
