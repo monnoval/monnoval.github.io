@@ -16,7 +16,7 @@ After watching the video [What happens when you steal a hackers computer](https:
 > - The nature of Tor is for anonymity it is really tough to tell people that you are using Tor for good.
 > - Tor for Good!
 
-I was well aware since before that ISPs, social networks, search enines, and many more are tracking every one of us. I was aware yet I still did nothing to stop them from tracking me. This time I did take precautions that would make my activities online private and anonymous. 
+I was well aware since before that ISPs, social networks, search engines, and many more are tracking every one of us. I was aware yet I still did nothing to stop them from tracking me. This time I did take precautions that would make my activities online private and anonymous. 
 
 <!--more-->
 
