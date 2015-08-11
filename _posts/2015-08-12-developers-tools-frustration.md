@@ -7,9 +7,9 @@ title: Developers, Tools, Frustration
 
 Today I'm writing to list the frustrations I see and read everyday. 
 
-1. I'm so frustrated [seeing developers using tools from the 90's](#tools).
-2. I'm so frustrated [by developers who do not care about performance](#performance).
-3. I'm so frustrated [by projects not in version control](#version-control). 
+1. I'm so frustrated [seeing developers using tools from the 90's](/blog/developers-tools-frustration/#tools).
+2. I'm so frustrated [by developers who do not care about performance](/blog/developers-tools-frustration/#performance).
+3. I'm so frustrated [by projects not in version control](/blog/developers-tools-frustration/#version-control). 
 
 Take note, everyday, looking at the code makes me want to vomit. Seriously, I would like to puke, I'm not joking this time. 
 
@@ -23,9 +23,9 @@ Seriously. It's year 2015. It has been 40 years since [The Mythical Man-Month](h
 
 <h2 id="tools">Tools</h2>
 
-First thing I try to understand a developer is into his tools. I try to understand how he/she solves small problems related to day-to-day work. I truly believe that looking deeper into how a developer handles his/her tools give a strong emphasis on his problem solving skills. The tools maybe his IDE, text editor, FTP uploader, etc. 
+First thing I try to understand a developer is into his tools. I try to understand how he/she solves small problems related to day-to-day work. I truly believe that looking deeper into how a developer handles his/her tools give a strong emphasis on his problem solving skills. These tool maybe his IDE, text editor, FTP uploader, etc. 
 
-I have recently pushed my simple wordpress starter theme [Bareplate](https://github.com/monnoval/bareplate), built on Gulp, Bower, Sass, and BrowserSync. This starter theme is my way of making my workflow faster, maintainable and performance driven. Still there are a lot of things to work on. I still need to do documentation, and a lot of refactoring to make it easier for people. 
+I have recently pushed my simple wordpress starter theme [Bareplate](https://github.com/monnoval/bareplate), built on Gulp, Bower, Sass, and BrowserSync. This starter theme is my way of making my workflow faster, maintainable and performance driven. Still there are a lot of things to work on. I still need to do documentation, and a lot of refactoring to make it easier to use. 
 
 Even though I have my own starter theme, I'm still so eager to tryout [Sage](https://roots.io/sage/) so that I could understand the problems it solves. Or even setup [Trellis](https://roots.io/trellis/) to have a rock solid portable wordpress setup. Looking at the projects in roots.io I'm already set to believe this is gonna be my next wordpress setup. Its quite amazing see for yourself!
 
@@ -75,6 +75,6 @@ I'm so frustrated why developers avoid using a system where it would help them?
 
 Alright, my frustration is trying to evolve into unconditional hate. Time will be the judge if this is good for me, lol! 
 
-If you have the same issue, do write, talk, and discuss about it. It would be for the good of every developer to know that there is an issue creeping in. 
+If you have the same issue, do write, talk, and discuss about it. It would be for the good of every developer to know these issues are creeping in. 
 
 
