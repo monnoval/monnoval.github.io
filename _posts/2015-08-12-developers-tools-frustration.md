@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Developers, Tools, Frustration
+comments: true
 ---
 
 ![]({{ site.baseurl }}public/images/2015-08-12-01.jpg)
